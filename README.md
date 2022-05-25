@@ -27,3 +27,7 @@ sklearn
 keras
 tensorflow
 yfinance
+
+Portofolio Images:
+![image](https://user-images.githubusercontent.com/44412692/170323880-a869f2fe-829a-4cab-a710-f5f94023a54b.png)
+
