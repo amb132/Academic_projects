@@ -1,4 +1,4 @@
-# Academic_projects
+# Academic_project
 Procedures to follow for the executionPython web app for Our Project:
 
 1> locate myapp.py file from Zip file and All the files with extension .json and .h5
